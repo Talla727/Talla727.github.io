@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p1 {
+    color: #957293;
+    font-family: helvetica;
+    font-size: 20px;
+}
+
+h2 {
+    color: darkblue;
+    text-align:left;
+}
+
+p2 {
+    color: #c19bc1;
+    font-family: helvetica;
+    font-size: 20px;
+}
+
+p3 {
+    color: #8e93c4;
+    font-family: helvetica;
+    font-size: 20px;
+}
